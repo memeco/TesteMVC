@@ -1,0 +1,8 @@
+/Users/emersonpedro/Desktop/Full-Stack/CSharp/TesteMvc/obj/Debug/net8.0/TesteMvc.csproj.AssemblyReference.cache
+/Users/emersonpedro/Desktop/Full-Stack/CSharp/TesteMvc/obj/Debug/net8.0/TesteMvc.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emersonpedro/Desktop/Full-Stack/CSharp/TesteMvc/obj/Debug/net8.0/TesteMvc.AssemblyInfoInputs.cache
+/Users/emersonpedro/Desktop/Full-Stack/CSharp/TesteMvc/obj/Debug/net8.0/TesteMvc.AssemblyInfo.cs
+/Users/emersonpedro/Desktop/Full-Stack/CSharp/TesteMvc/obj/Debug/net8.0/TesteMvc.csproj.CoreCompileInputs.cache
+/Users/emersonpedro/Desktop/Full-Stack/CSharp/TesteMvc/obj/Debug/net8.0/TesteMvc.MvcApplicationPartsAssemblyInfo.cache
+/Users/emersonpedro/Desktop/Full-Stack/CSharp/TesteMvc/obj/Debug/net8.0/TesteMvc.RazorAssemblyInfo.cache
+/Users/emersonpedro/Desktop/Full-Stack/CSharp/TesteMvc/obj/Debug/net8.0/TesteMvc.RazorAssemblyInfo.cs
