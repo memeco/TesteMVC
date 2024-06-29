@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PTrC+RQkTUAUvlVw1KMlaPdueK7OzbiQXlWN5FPQzn6pvA1JWmyHjqweAzRC/1DrQQs997z84z8WwseJwd2PAw==",
+  "dgSpecHash": "LD3BwL4UqXcFcOBQr0xixBlPbAQRekvnLKrk6ZNM4EZGT0VZYe7SfxR6A21ql45AmFbQq6Dwdt1aMbxkPHiHJw==",
   "success": true,
-  "projectFilePath": "/Users/emersonpedro/Desktop/Full-Stack/CSharp/TesteMvc/TesteMvc.csproj",
+  "projectFilePath": "/Users/emersonpedro/Desktop/Full-Stack/CSharp/TesteMVC/TesteMvc.csproj",
   "expectedPackageFiles": [
     "/Users/emersonpedro/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/Users/emersonpedro/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",

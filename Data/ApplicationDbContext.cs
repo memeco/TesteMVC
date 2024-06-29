@@ -1,7 +1,7 @@
 using Microsoft.EntityFrameworkCore;
-using ClienteMvc.Models;
+using TesteMVC.Models;
 
-namespace ClienteMvc.Data
+namespace TesteMVC.Data
 {
     public class ApplicationDbContext : DbContext
     {

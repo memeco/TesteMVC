@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/emersonpedro/Desktop/Full-Stack/CSharp/TesteMvc/TesteMvc.csproj": {}
+    "/Users/emersonpedro/Desktop/Full-Stack/CSharp/TesteMVC/TesteMvc.csproj": {}
   },
   "projects": {
-    "/Users/emersonpedro/Desktop/Full-Stack/CSharp/TesteMvc/TesteMvc.csproj": {
+    "/Users/emersonpedro/Desktop/Full-Stack/CSharp/TesteMVC/TesteMvc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/emersonpedro/Desktop/Full-Stack/CSharp/TesteMvc/TesteMvc.csproj",
+        "projectUniqueName": "/Users/emersonpedro/Desktop/Full-Stack/CSharp/TesteMVC/TesteMvc.csproj",
         "projectName": "TesteMvc",
-        "projectPath": "/Users/emersonpedro/Desktop/Full-Stack/CSharp/TesteMvc/TesteMvc.csproj",
+        "projectPath": "/Users/emersonpedro/Desktop/Full-Stack/CSharp/TesteMVC/TesteMvc.csproj",
         "packagesPath": "/Users/emersonpedro/.nuget/packages/",
-        "outputPath": "/Users/emersonpedro/Desktop/Full-Stack/CSharp/TesteMvc/obj/",
+        "outputPath": "/Users/emersonpedro/Desktop/Full-Stack/CSharp/TesteMVC/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/emersonpedro/.nuget/NuGet/NuGet.Config"

@@ -1,4 +1,4 @@
-namespace ClienteMvc.Models
+namespace TesteMVC.Models
 {
     public class Cliente
     {
